@@ -36,6 +36,16 @@ A Azure é a plataforma de computação em nuvem da Microsoft, que oferece uma a
 
 - Gerenciabilidade: É muito fácil fazer o gerenciamento dos recursos, seja via linha de comando, via portal ou APIs.
 
+## Tipos de Serviço de nuvem
+
+- No local: Responsabilidade total do cliente. 
+
+- IaaS (Infraestrutura como Serviço): O provedor disponibiliza a parte física (hardware), o cliente fica reponsável pela configuração dessa infraestrutura. (As VMS por exemplo).
+
+- Paas (Plataforma como Serviço): O provedor fornece um ambiente para que o usuário crie sua aplicação ou insira as informações sem se proucupar com a performance do hardware e sistema operacional. (Um Banco de Dados por exemplo).
+
+- Saas (Software como Serviço): Fornece uma aplicação para o cliente, onde o provedor tem total responsabilidade por essa aplicação, o cliente fica responsável apenas por inserir informações. (Por exemplo o Microsoft 365, onde as ferramentas são disponibilizadas conforme a licença comprada).
+
 ## Links Úteis
 
 - Calculadora: https://azure.microsoft.com/pt-br/pricing/calculator/
