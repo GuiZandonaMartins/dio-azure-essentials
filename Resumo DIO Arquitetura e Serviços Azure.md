@@ -136,7 +136,7 @@ A parte de segurança trabalha com o conceito confiança zero e de defesa em pro
  
 ## Links Úteis
 
-Primeiro Resumo:
+Primeiro Resumo: https://github.com/GuiZandonaMartins/dio-azure-essentials/blob/main/Resumo%20DIO%20Conceitos%20Iniciais%20de%20Cloud%20Azure
 
 Calculadora: https://azure.microsoft.com/pt-br/pricing/calculator/
 
