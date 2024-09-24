@@ -18,7 +18,7 @@
 
 ## Portal de confiança do Azure
 
-A Azure possui um site com a documentação de compliance de cada serviço, que poderá ser consultado para obter detalhes para auditoria. Site: https://learn.microsoft.com/pt-br/azure/compliance/
+A Azure possui um site com a documentação de compliance de cada serviço, que poderá ser consultado para obter detalhes para auditoria. Site: https://servicetrust.microsoft.com/
  
 ## Microsoft Purview
 
