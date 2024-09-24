@@ -38,6 +38,8 @@ Uma outra ferramenta é a calculadora de custo total (TCO), ela ajuda a estimar 
 
 - Calculadora: https://azure.microsoft.com/pt-br/pricing/calculator/
 
+- Calculadora TCO: https://azure.microsoft.com/pt-br/pricing/tco/calculator/
+
 - Verificação de Status: https://azure.status.microsoft/pt-br/status
 
 - Curso gratuito da Microsoft: https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
