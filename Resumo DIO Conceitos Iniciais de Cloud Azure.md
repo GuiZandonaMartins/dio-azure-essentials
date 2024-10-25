@@ -1,4 +1,4 @@
-# Azure Essentials
+# Azure Essentials 
 
 A Azure é a plataforma de computação em nuvem da Microsoft, que oferece uma ampla gama de serviços, incluindo computação, armazenamento, redes, análise de dados, inteligência artificial, Internet das Coisas (IoT) e muito mais. Ela permite que empresas e desenvolvedores criem, implantem e gerenciem aplicativos e serviços através de uma rede global de data centers da Microsoft.
 
